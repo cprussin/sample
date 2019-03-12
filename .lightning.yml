@@ -1,0 +1,3 @@
+endpoints:
+  myFunction:
+    definiton: "./myFunction.js"
